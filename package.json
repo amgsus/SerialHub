@@ -1,0 +1,11 @@
+{
+    "name": "serialhub",
+    "version": "1.0.0",
+    "description": "Creates TCP/IP server and shares a serial port between connected clients",
+    "main": "index.js",
+    "author": "A.G.",
+    "license": "MIT",
+    "dependencies": {
+        "serialport": "^7.1.3"
+    }
+}
